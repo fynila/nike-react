@@ -1,0 +1,35 @@
+/* default css 
+ */
+.py-100{
+    padding: 100px 0;
+}
+.mb-100{
+    margin-bottom: 100px;
+}
+.fa-cart-shopping{
+    padding-right: 10px;
+}
+.pe-250 {
+    padding-right: 250px;
+}
+.ps-200px{
+    padding-left: 200px;
+}
+.h-100{
+    height: 100px;
+}
+/* logo area  */
+.nike-bg{
+    background-color: #FFF9F4;
+}
+.site-logo img{
+    width:290px;
+}
+/* slider area  */
+.slide-content h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+.price-color{
+    color: #FA804C;
+}
